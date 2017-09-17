@@ -1,0 +1,56 @@
+我们（大多数平庸的人）总是偏爱肤浅的东西，与其说偏爱不如说就是肤浅。
+就说读书，总喜欢简单的，肤浅的。
+就说学习编程，也只是关注表面的东西，读一些速成的教程。全然不知背后的思想，语言的本质特性才是最重要的。
+------
+重视概念，不要太看重照猫画虎的那种快捷成就感，认真地理解核心概念，从Javascript开始，先适应这种语言的思考方式，异步，事件驱动，原型等等；
+然后去理解nodejs的核心，EventEmitter，Buffer，Stream，模式如Middleware，Observer，PubSub，
+这些东西你写一万遍只有简单路由的tutorial，不专门去理解就不会理解，多少年经验都没用。
+而理解了那些东西你才可以成为专业程序员，具备程序设计的能力。
+------
+说到底，就是没耐心，不过耐心本来就是一种难得的能力。
+说没耐心，这不只是简单的思想上的，它有着现实性。现实不允许你有，而主观上无法撼动这种现实（
+这包括---你所处的世界给你的诱惑，你本身的理解力的有限，你首先需要养活自己。）
+你体内的高涨的能量，多数都输送到下体，上半身没多少。
+$$$ 0 计算机经典（computer science）
+SCIP（看了那么多本书，不如自己实现一个小语言学得多理解得深）
+algorithms in java
+编译原理
+csapp
+黑客与画家
+编程精粹
+https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read?tab=votes
+
+$$$ 1 Javascript
+JavsScript高级程序设计（第三版）
+Learning jQuery
+锋利的jQuery
+  学习Javascript数据结构与算法
+JavaScript设计模式与开发实践
+高性能JavaScript
+YOU DONT KNOW JAVASCRIPT
+Javascript: The Good Parts
+eloquent JavaScript（http://eloquentjavascript.net/）
+effective javascript; 
+the priciples of object-oriented javascript; 
+speaking javascript
+
+第二批次:成为一名合格的前端工程师
+
+《JavaScript高级程序设计》(或《JavaScript权威指南》)
+
+《精通JavaScript》
+
+第三批次:更优秀的代码 ，更优良的设计
+
+《JavaScript语言精粹》
+
+《JavaScript设计模式》
+
+第四批次:从语言细节到复杂工程实践 ，想开发靠谱的各类底层代码 ，应该看看
+
+《Secrets of the JavaScript Ninja》
+
+《JavaScript Patterns》
+
+《ECMA-262 in Detail》
+
